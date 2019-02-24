@@ -1,5 +1,5 @@
 # TMDB-Movie-EDA
-##EDA for TMDB movies
+## EDA for TMDB movies
 
 本项目是对TMDB（The Movie Database）上的电影信息进行探索性分析。试图分析电影行业产量质量发展趋势，从电影投资人角度分析如何提高影片的票房，利润和口碑，找到流行趋势。
 
