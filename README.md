@@ -22,7 +22,7 @@ In this project, I performed exploratory data analysis on a dataset of 5000 TMDB
 
 Data Source：https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
-### The features in tmdb_5000_credits.csv：
+#### The features in tmdb_5000_credits.csv：
 
 movie_id: A unique identifier for each movie.
 
@@ -32,7 +32,7 @@ cast: The name of lead and supporting actors.
 
 crew: The name of Director, Editor, Composer, Writer etc. 
 
-The features in tmdb_5000_movies.csv：
+#### The features in tmdb_5000_movies.csv：
 
 budget: the budget for a movie
 
