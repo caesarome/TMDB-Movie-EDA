@@ -17,11 +17,12 @@ In this project, I performed exploratory data analysis on a dataset of 5000 TMDB
 ## Data Cleaning is the hard part of the project:
 
 1）There is a large number of Json data in the dateset, it's necessary to convert the Json data into a Python object.
+
 2）One-hot encoding will be applied to to categorical variables, creating new features for each category.
 
 Data Source：https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
-The features in tmdb_5000_credits.csv：
+### The features in tmdb_5000_credits.csv：
 
 movie_id: A unique identifier for each movie.
 
