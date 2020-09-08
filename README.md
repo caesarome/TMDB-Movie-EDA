@@ -5,9 +5,13 @@
 In this project, I performed exploratory data analysis on a dataset of 5000 TMDB movies in order to figure out the current and future trend for the movie industry: what kinds of movie are popular, how to maximize the ROI of a movie.
 
 ## There are four parts in the report： 
+
 1.Problem Statement
+
 2.Data Cleaning
+
 3.Data Visualization
+
 4.Summary
 
 ## Data Cleaning is the hard part of the project:
